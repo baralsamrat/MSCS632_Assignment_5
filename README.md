@@ -11,6 +11,9 @@ April 14, 2025
 
 This repository contains a multi-language implementation of a Ride Sharing System that demonstrates core Object-Oriented Programming (OOP) principles: encapsulation, inheritance, and polymorphism. The project includes implementations in **C++** and **Smalltalk**.
 
+## Screenshots
+![1](/screenshots/Capture-1.png)
+![2](/screenshots/Capture-2.png)
 ## Project Overview
 
 The Ride Sharing System includes the following components:
